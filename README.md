@@ -1,7 +1,7 @@
 # 阿里云DNS动态解析
 支持多解析记录
 ```
-git clone https://github.com/SNBQT/aliyunddns.git
+git clone git@github.com:tudi1909/aliyunddns.git
 ```
 ## 安装 python sdk, pyaml
 ```
